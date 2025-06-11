@@ -1,5 +1,5 @@
 ### Using AZCLI and BASH
-### **Delete the variables declared in STEP1 for better practice and recreate again here
+### **Delete the variables declared in STEP1 for better practice and recreate again
 ```bash
 az group delete --name $ResourceGroup --yes --no-wait
 ```
