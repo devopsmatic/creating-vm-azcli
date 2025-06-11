@@ -16,11 +16,13 @@ az login
 ### **Declare Variables in PowerShell**
 ```PowerShell
 $ResourceGroup = "myResourceGroup"
+$Location = "East US"
 ```
 OR
 ### **Declare Variables in BASH ($ at beginning not needed)**
 ```bash
 ResourceGroup = "myResourceGroup"
+Location = "East US"
 ```
 ### **Create a resource group**
 ```bash
