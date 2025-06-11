@@ -1,6 +1,8 @@
-#### PowerShell and Bash just differ in variable declaration; 
+## Difference 1
+#### PowerShell and Bash differ in variable declaration; 
 #### In PowerShell you add a $ before variable, in Bash you don't;
 #### Whether in Windows or Ubuntu, after installing the [PowerShell module](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.5), you can execute the commands in bash or cmd and stricly running in PowerShell Prompt is not needed;
+## Difference 2
 #### Another deifference is line split.
 #### In powershell you split a line using ` (Backtick)
 #### In BASH you split a line using \       (Backslash)
